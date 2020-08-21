@@ -1,7 +1,9 @@
+@import '../../styles/Shared.scss';
+
 .ui.menu.top-menu {
     border: none;
     .logo {
-        width: 17rem;
+        width: $header-width;
     }
     .nav-container {
         justify-content: space-between;
