@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideBarItem renders SideBarItem 1`] = `ShallowWrapper {}`;
+
+exports[`SideBarItem renders SideBarItem with highlight and navigation 1`] = `ShallowWrapper {}`;
+
+exports[`SideBarItem renders SideBarItem with no highlight and navigation 1`] = `ShallowWrapper {}`;

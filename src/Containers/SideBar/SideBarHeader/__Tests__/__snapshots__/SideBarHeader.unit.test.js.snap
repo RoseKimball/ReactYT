@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideBarHeader renders SideBarHeader 1`] = `ShallowWrapper {}`;
+
+exports[`SideBarHeader renders SideBarHeader with example title 1`] = `ShallowWrapper {}`;

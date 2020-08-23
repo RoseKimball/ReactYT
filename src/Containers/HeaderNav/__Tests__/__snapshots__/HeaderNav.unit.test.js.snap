@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderNav renders HeaderNav 1`] = `ShallowWrapper {}`;
+
+exports[`renders HeaderNav 1`] = `ShallowWrapper {}`;
