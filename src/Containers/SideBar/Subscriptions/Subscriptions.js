@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Subscription from '../Subscription/Subscription';
-import SideBarHeader from '../SideBarHeader/SideBarHeader';
+import Subscription from '../../../Components/Subscription/Subscription';
+import SideBarHeader from '../../../Components/SideBarHeader/SideBarHeader';
 
 export class Subscriptions extends Component {
     render() {

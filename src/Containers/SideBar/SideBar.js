@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { Menu, Divider } from 'semantic-ui-react';
 import './SideBar.scss';
-import SideBarItem from './SideBarItem/SideBarItem';
-import SideBarHeader from './SideBarHeader/SideBarHeader';
+import SideBarItem from '../../Components/SideBarItem/SideBarItem';
+import SideBarHeader from '../../Components/SideBarHeader/SideBarHeader';
 import Subscriptions from './Subscriptions/Subscriptions';
-import SideBarFooter from './SideBarFooter/SideBarFooter';
+import SideBarFooter from '../../Components/SideBarFooter/SideBarFooter';
 
 export class SideBar extends Component {
     render() {
