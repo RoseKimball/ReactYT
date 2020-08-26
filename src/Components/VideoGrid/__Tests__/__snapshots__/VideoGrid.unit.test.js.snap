@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoGrid renders VideoGrid 1`] = `ShallowWrapper {}`;
+
+exports[`VideoGrid renders without divider 1`] = `ShallowWrapper {}`;
