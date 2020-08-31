@@ -1,3 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`VideoPreview renders VideoPreview 1`] = `ShallowWrapper {}`;
+
+exports[`VideoPreview renders horizontal preview 1`] = `ShallowWrapper {}`;
