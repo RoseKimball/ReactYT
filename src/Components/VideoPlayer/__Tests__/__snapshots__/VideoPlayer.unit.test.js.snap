@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VidePlayer renders VideoPlayer 1`] = `ShallowWrapper {}`;
+
+exports[`VidePlayer renders null without id prop 1`] = `ShallowWrapper {}`;
