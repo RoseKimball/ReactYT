@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppLayout renders layout with one child 1`] = `ShallowWrapper {}`;
+
+exports[`AppLayout renders layout without children 1`] = `ShallowWrapper {}`;
