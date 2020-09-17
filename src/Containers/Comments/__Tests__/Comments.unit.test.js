@@ -16,4 +16,4 @@ describe('Comments', () => {
         )
         expect(wrapper).toMatchSnapshot();
     }) 
-}
+})

@@ -10,4 +10,4 @@ describe('Comment', () => {
         )
         expect(wrapper).toMatchSnapshot();
     })
-}
+})

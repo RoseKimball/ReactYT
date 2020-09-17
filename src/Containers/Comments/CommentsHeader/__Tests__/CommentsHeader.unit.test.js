@@ -16,4 +16,4 @@ describe('CommentsHeader', () => {
         )
         expect(wrapper).toMatchSnapshot();
     }) 
-}
+})
